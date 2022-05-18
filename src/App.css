@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.login-wrapper {
+  height: 100vh;
+  overflow: hidden;
+}
+
+ .title {
+   text-align: center;
+   font-size: 34px;
+   font-weight: bold;
+ }
+
+.width100 {
+  width: 100%;
+}
+
+.center-wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.mt-10 {
+  margin-top: 10px !important;
+}
+
+.align-right {
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+
+.flex {
+  display: flex;
+}
